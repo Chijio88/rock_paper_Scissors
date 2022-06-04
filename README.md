@@ -1,1 +1,1 @@
-# rock_paper_Scissors game wriitr=en in python 
+# rock_paper_Scissors game written in python 
